@@ -1,4 +1,4 @@
-# 🎙️ Voice AI Banker — Kaspi Assistant
+# 🎙️ Voice AI Banker - Assistant
 
 > **Full voice pipeline: Speech-to-Text → LLM → Text-to-Speech**
 > Whisper Large v3 → Llama 3.3-70B → gTTS | Supports Russian & English
