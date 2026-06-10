@@ -1,4 +1,4 @@
+groq
+gtts
 streamlit
-qroq
 python-dotenv
-gTTS
